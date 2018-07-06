@@ -1,5 +1,5 @@
 # ML-Rosbank-competition
-58th place ML Rosbank competition, 5th on comptetion of presentation solutions
+Top 30 place ML Rosbank competition, 5th on comptetion of presentation solutions
 
 ML_Rosbank_final_script.ipynb - main script
 
